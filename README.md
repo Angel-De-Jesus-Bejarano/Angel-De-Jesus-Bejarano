@@ -9,12 +9,12 @@
 <p align="left"> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a>
-     <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img
+     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://testrigor.com/wp-content/uploads/2023/04/nextjs-logo-square.png"
       alt="next" width="40" height="40" /> </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://logospng.org/download/tailwind-css/tailwind-css-1536.png"
+      alt="taildwind" width="40" height="40" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
