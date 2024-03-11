@@ -27,7 +27,7 @@ I-am Angel-Dev
 <hr>
 
 
-## 🛠️ My Favorite Tools
+## 🛠️ My Casual Tools
 
 ### 👨‍💻 Programming Languages
 
