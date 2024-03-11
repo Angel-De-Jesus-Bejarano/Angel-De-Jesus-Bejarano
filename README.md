@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+    <img width="200" src="https://github.com/Angel-De-Jesus-Bejarano/AppClimaNEXTJS/blob/main/public/img/Portada%20GitHub%20angel.png">
+</p>
+
 
 <!--
 **Angel-De-Jesus-Bejarano/Angel-De-Jesus-Bejarano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
