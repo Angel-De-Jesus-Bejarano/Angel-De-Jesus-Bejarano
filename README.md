@@ -11,7 +11,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="adam-pw" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
