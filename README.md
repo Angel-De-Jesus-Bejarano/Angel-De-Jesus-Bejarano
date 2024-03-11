@@ -1,35 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Botón de Cambio de Idioma</title>
-    <script>
-        function toggleLanguage() {
-            var textElement = document.getElementById('text');
-            if (textElement.lang === 'en') {
-                textElement.lang = 'es';
-                textElement.textContent = '¡Hola, mundo!';
-            } else {
-                textElement.lang = 'en';
-                textElement.textContent = 'Hello, world!';
-            }
-        }
-    </script>
-</head>
-<body>
-
-<p id="text" lang="en">Hello, world!</p>
-
-<button onclick="toggleLanguage()">Cambiar Idioma</button>
-
-</body>
-</html>
-
-
-
-
-
 <h1 align="center">
 Hi, I'm Angel Bejarano!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
