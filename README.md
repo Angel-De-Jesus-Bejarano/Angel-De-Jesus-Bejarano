@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/Angel-De-Jesus-Bejarano/AppClimaNEXTJS/blob/main/public/img/Portada%20GitHub%20angel.png">
+    <img width="1000" src="https://github.com/Angel-De-Jesus-Bejarano/AppClimaNEXTJS/blob/main/public/img/Portada%20GitHub%20angel.png">
 </p>
 
 
