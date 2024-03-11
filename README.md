@@ -7,10 +7,10 @@ Hi, I'm Angel Bejarano!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FFF00C&center=true&random=false&width=435&lines=Computer+Enginner+Student;FrontEnd+Web+Developer;Always+Learning+New+Things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FFF00C&center=true&random=false&width=435&lines=Computer+Engineer+Student;FrontEnd+Web+Developer;Always+Learning+New+Things"></a>
 </p>
 
-<img align="left" src="https://github.com/Angel-De-Jesus-Bejarano/Angel-De-Jesus-Bejarano/blob/main/image-github-angel.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/Angel-De-Jesus-Bejarano/Angel-De-Jesus-Bejarano/blob/main/image-github-angel.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" height="320" />
 <hr>
 
 ```
