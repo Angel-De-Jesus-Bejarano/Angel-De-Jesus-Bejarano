@@ -5,10 +5,6 @@
 <p align='center'>
 </p>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
-
 <br>
 
 <p><img width="450" height="500" align="right" src="https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif" alt="adam-pw" /></p>
